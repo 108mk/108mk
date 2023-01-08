@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently doing my masters in Qauntum Computing at IISc Bengaluru.
 - 🌱 My current interest is in Quantum Algotithms, Quantum Cryptography and Quantum Information Theory.
-- <p align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=108mk&show_icons=true&theme=radical">
 </p>
 <p align="center">
@@ -14,8 +14,7 @@
 
 - 📫 Reach me at manishkumar7[at]iisc.ac.in
 - ⚡ I thinks playing a sports is a nice idea. I usually prefer badminton and cricket. 
-- 
-- <p align="center">
+ <p align="center">
   <img src="https://github.com/108mk/108mk.github.io/blob/c9afe1f6a105cc076a29bfb5f84ebee8702a84e2/images/4-qubit-types-resized.jpg">
 </p>
 
