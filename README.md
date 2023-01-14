@@ -3,11 +3,11 @@
 - 🔭 I’m currently doing my masters in Qauntum Computing at IISc Bengaluru.
 - 🌱 My current interest is in Quantum Algotithms, Quantum Cryptography and Quantum Information Theory.
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=108mk&show_icons=true&theme=radical">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=108mk&show_icons=true&theme=radical">
 </p>
 <p align="center">
   <a href="https://github.com/108mk/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=108mk&layout=compact&theme=radical"/>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=108mk&layout=compact&theme=radical"/>
   </a>
   <br/>
 </p>
