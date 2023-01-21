@@ -20,6 +20,12 @@
   <img src="https://github.com/108mk/108mk.github.io/blob/c9afe1f6a105cc076a29bfb5f84ebee8702a84e2/images/4-qubit-types-resized.jpg">
 </p>
 
+- Thinks To Ponder: (Image Credit: Z. Minev via LinkedIn)
+
+<p align="center">
+  <img src="https://github.com/108mk/108mk.github.io/blob/52225b73397fb6c57f781402663c76b03fb5b6d3/old_version/demo%20pics/z_minev_openQ_problem.jpg">
+</p>
+
 <!--- #- 👯 I also keep 
 <!--- #- 🤔 I’m looking for help with ... 
 <!--- #- 💬 Ask me about ... 
