@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently doing my masters in Qauntum Computing at IISc Bengaluru.
+- 🔭 I’m currently doing my masters in Quantum Computing at IISc Bengaluru.
 - 🌱 My current interest is in Quantum Algotithms, Quantum/Classical Cryptography and Quantum Information Theory.
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=108mk&show_icons=true&theme=radical">
