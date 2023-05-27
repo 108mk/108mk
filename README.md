@@ -13,7 +13,15 @@
 </p>
 
 - 📫 Reach me at manishkumar7[at]iisc.ac.in
-- ⚡ I think playing sports is a nice idea. I usually prefer badminton and cricket. 
+<div style="padding: 25px 0;">
+     <a href="https://www.linkedin.com/in/108mk/" style="padding: 8px; width: 24px; height: 24px;">
+        <img src="https://github.com/tbakerx/tbakerx/blob/main/assets/linkedin-green.png" alt="Connect on Linkedin" width="24" height="24">
+    </a>
+</div>
+
+[![](https://visitcount.itsvg.in/api?id=tbakerx&label=Profile%20Views&color=3&icon=1&pretty=true)](https://visitcount.itsvg.in)
+
+- ⚡ I think playing sports is a nice idea. I usually prefer badminton and cricket.
 - A few Avatars of Quantum Bits:
 
  <p align="center">
