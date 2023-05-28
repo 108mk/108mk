@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently doing my masters in Quantum Computing at IISc Bengaluru.
-- 🌱 My current interest is in Quantum Algorithms and its applications in various domains. I also keep track of developments in Quantum (Post-Quantum) Cryptography and Quantum errror corrections. 
+- 🌱 My current interest is in Quantum Algorithms and its applications in Deep learning and optimization problems. I also keep track of developments in Quantum (Post-Quantum) Cryptography and Quantum errror corrections.
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=108mk&show_icons=true&theme=radical">
 </p>
@@ -16,8 +16,13 @@
 
 <div style="padding: 25px 0;">
      <a href="https://www.linkedin.com/in/timbakerx/" style="padding: 8px; width: 24px; height: 24px;">
-        <img src="https://github.com/108mk/108mk.github.io/blob/fafd671c4d8ed02de3a684e8d0d601a4649b2b31/images/linkedin-green.png" alt="Connect on Linkedin" width="24" height="24">
+        <img src="https://github.com/108mk/108mk.github.io/blob/fafd671c4d8ed02de3a684e8d0d601a4649b2b31/images/linkedin-green.png" alt="Connect on Linkedin" width="48" height="48">
     </a>
+  
+  <a href="https://108mk.github.io/" style="padding: 8px; width: 24px; height: 24px;">
+        <img src="https://github.com/108mk/108mk.github.io/blob/0fcb9bc348a1b28853b58adfa2ef2b80ef8b94b8/images/web.jpg" alt="My Webpage" width="72" height="48">
+    </a>
+  
 </div>
 
 [![](https://visitcount.itsvg.in/api?id=108mk&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
