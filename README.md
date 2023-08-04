@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently doing my masters in Quantum Computing at [IISc, Bengaluru](https://en.wikipedia.org/wiki/Indian_Institute_of_Science).
-- 🌱 My current interest is in Quantum Algorithms and its applications in Deep learning and optimization problems. I also keep track of developments in Quantum (Post-Quantum) Cryptography and Quantum errror corrections.
+- 🌱 My current interest is in Quantum Algorithms and their applications in Deep learning, optimization and system simulation. I also keep track of developments in Quantum (Post-Quantum) Cryptography and Quantum error corrections.
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=108mk&show_icons=true&theme=radical">
 </p>
