@@ -3,6 +3,7 @@
 - 🔭 I’m currently doing my masters in Quantum Computing at [IISc, Bengaluru](https://en.wikipedia.org/wiki/Indian_Institute_of_Science).
 - 🌱 My current interest is in Quantum Algorithms and their applications in Deep learning, optimization and system simulation. I also keep track of developments in Quantum (Post-Quantum) Cryptography and Quantum error corrections.
 - :dart: One of the long-term goals is to understand the power and limitations of the computational complexity class BQP, i.e., the set of problems having a polynomial time Quantum algorithm.
+- ⭐ A part-time programmer. Trying to weaponize dynamic programming [😅].
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=108mk&show_icons=true&theme=radical">
 </p>
@@ -35,7 +36,7 @@
   <img src="https://github.com/108mk/108mk.github.io/blob/c9afe1f6a105cc076a29bfb5f84ebee8702a84e2/images/4-qubit-types-resized.jpg">
 </p>
 
-- Thinks To Ponder: (Image Credit: Z. Minev via LinkedIn)
+- Things To Ponder: (Image Credit: Z. Minev via LinkedIn)
 
 <p align="center">
   <img src="https://github.com/108mk/108mk.github.io/blob/52225b73397fb6c57f781402663c76b03fb5b6d3/old_version/demo%20pics/z_minev_openQ_problem.jpg">
