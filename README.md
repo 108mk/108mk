@@ -3,7 +3,7 @@
 - 🔭 I’m currently doing my masters in Quantum Computing at [IISc, Bengaluru](https://en.wikipedia.org/wiki/Indian_Institute_of_Science).
 - 🌱 My current interest is in Quantum Algorithms and their applications in Deep learning, optimization and system simulation. I also keep track of developments in Quantum (Post-Quantum) Cryptography and Quantum error corrections.
 - :dart: One of the long-term goals is to understand the power and limitations of the computational complexity class BQP, i.e., the set of problems having a polynomial time Quantum algorithm.
-- ⭐ A part-time programmer. Trying to weaponize dynamic programming [😅].
+- ⭐ A part-time programmer. Trying to learn a bit of creative thinking via Dynamic Programming [😅].
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=108mk&show_icons=true&theme=radical">
 </p>
