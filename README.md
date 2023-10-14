@@ -9,7 +9,7 @@
 
   > $BQP\not\subset NP$: It is conjectured that the power of Quantum Turing Machine and Non-deterministic Turing Machine are not comparable. It is known to hold true in the oracle/relativized model. Still, there is no real-world problem that is in BQP but not in NP. Any such discovery will be a breakthrough (at least twice as big as FACTORING.)
   
-- ⭐ A part-time programmer. Trying to learn a bit of creative thinking via Dynamic Programming [😅].
+- ⭐ A part-time programmer. Trying to learn a bit of creative thinking via Dynamic Programming [😅]. See if these [codes](https://github.com/108mk/E0-225_Design_and_Analysis_of_Algorithms.git) are relevant.
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=108mk&show_icons=true&theme=radical">
 </p>
@@ -35,7 +35,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=108mk&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 
-- ⚡ I think playing sports is a nice idea. I usually prefer badminton and cricket. 
+- ⚡ I think playing sports is a nice idea. I usually prefer badminton (🏸) and cricket. I have won 12 out of 31 matches with my arch-rival at IISc Gymkhana.[😅] 
 - A few Avatars of Quantum Bits:
 
  <p align="center">
