@@ -35,7 +35,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=108mk&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 
-- ⚡ I think playing sports is a nice idea. I usually prefer badminton (🏸) and cricket. I have won 12 out of 31 badminton matches with my arch-rival at IISc Gymkhana.[😅] 
+- ⚡ I think playing sports is a nice idea. I usually prefer badminton (🏸) and cricket.
 - A few Avatars of Quantum Bits:
 
  <p align="center">
