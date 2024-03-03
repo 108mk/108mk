@@ -35,6 +35,8 @@
   
 </div>
 
+<a href="https://stackexchange.com/users/10264162"><img src="https://stackexchange.com/users/flair/10264162.png" width="208" height="58" alt="profile for 108_mk on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for 108_mk on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+
 [![](https://visitcount.itsvg.in/api?id=108mk&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 <!---
 [\\] <> - ⚡ I think playing sports is a nice idea. I usually prefer badminton (🏸) and cricket.
