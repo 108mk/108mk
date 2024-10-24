@@ -5,9 +5,9 @@
 - :dart: One of the long-term goals is to understand the power and limitations of the computational complexity class BQP, i.e., the set of problems having a  polynomial time Quantum algorithm.
 - Some Open problems in Quantum Complexity theory:
   
-  > $P\neq BQP:$ It is conjecture that Quantumess add power to computation. Still, there is no formal proof for it.
+  > $P\neq BQP:$ It is conjecture that Quantumess adds power to computation. Still, there is no formal proof for it.
 
-  > $BQP\not\subset NP$: It is conjectured that the power of Quantum Turing Machine and Non-deterministic Turing Machine are not comparable. It is known to hold true in the oracle/relativized model. Still, there is no real-world problem that is in BQP but not in NP. Any such discovery will be a breakthrough (at least twice as big as FACTORING.)
+  > $BQP\not\subset NP$: It is conjectured that the power of Quantum Turing Machine and Non-deterministic Turing Machine are not comparable. It is known to hold true in the oracle/relativized model.
   
 - ⭐ A part-time programmer. Trying to learn a bit of creative thinking via Dynamic Programming [😅]. See if these [codes](https://github.com/108mk/E0-225_Design_and_Analysis_of_Algorithms.git) are relevant.
 
