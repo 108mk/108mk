@@ -1,14 +1,14 @@
 ### Hi there 👋
 
 - 🔭 I just completed my master's in Quantum Computing at [IISc, Bengaluru](https://en.wikipedia.org/wiki/Indian_Institute_of_Science).
-- 🌱 My primary interest is in Quantum Complexity theory. Beyond this, I aspire to contribute to (quantum/classical) algorithmic research in optimization/ML and system simulation. I also keep track of developments in Quantum (Post-Quantum) Cryptography and Quantum error corrections.
-- :dart: One of the long-term goals is to understand the power and limitations of the computational complexity class BQP, i.e., the set of problems having a  polynomial time Quantum algorithm.
+- 🌱 My primary interest is in Quantum Complexity theory. Beyond this, I aspire to contribute to (quantum/classical) algorithmic research in optimisation/ML and system simulation. I also keep track of developments in Quantum (Post-Quantum) Cryptography and Quantum error corrections.
+- :dart: One of the long-term goals is to understand the power and limitations of the computational complexity class BQP, i.e., the set of problems having a  polynomial-time Quantum algorithm.
 
 - Some Open problems in Quantum Complexity theory:
   
-  > $P\neq BQP:$ It is conjecture that Quantumess adds power to computation. Still, there is no formal proof for it.
+  > $\mathsf{P\neq BQP}:$ It is conjectured that Quantumess adds power to computation. Still, there is no formal proof for it. Lower bounds are hard!!!.
 
-  > $BQP\not\subset NP$: It is conjectured that the power of Quantum Turing Machine and Non-deterministic Turing Machine are not comparable. It is known to hold in the oracle/relativized model.
+  > Is there something more in $\mathsf{BQP \cap NP}$? We know $\mathsf{P}$ and FACTORIZATION are there. Is it all?
   
 - ⭐ A part-time programmer. Trying to learn a bit of creative thinking via Dynamic Programming [😅]. See if these [codes](https://github.com/108mk/E0-225_Design_and_Analysis_of_Algorithms.git) are relevant.
 
