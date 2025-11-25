@@ -1,12 +1,12 @@
 ### Hi there 👋
 
 - 🔭 I just completed my master's in Quantum Computing at [IISc, Bengaluru](https://en.wikipedia.org/wiki/Indian_Institute_of_Science).
-- 🌱 My primary interest is in Quantum Complexity theory. Beyond this, I aspire to contribute to (quantum/classical) algorithmic research in optimisation/ML and system simulation. I also keep track of developments in Quantum (Post-Quantum) Cryptography and Quantum error corrections.
-- :dart: One of the long-term goals is to understand the power and limitations of the computational complexity class BQP, i.e., the set of problems having a  polynomial-time Quantum algorithm.
+- 🌱 My primary interest is in Quantum Simulation and Hamiltonian complexity theory. Beyond this, I aspire to contribute to (quantum/classical) algorithmic research in optimisation/ML and system simulation. I also keep track of developments in lattice-based cryptography and Physics-inspired machine learning.
+- :dart: One of the long-term goals is to understand the power and limitations of the computational complexity class BQP, i.e., the set of problems having a  polynomial-time quantum algorithm.
 
-- Some Open problems in Quantum Complexity theory:
+- Some of my other interests are-
   
-  > $\mathsf{P\neq BQP}:$ It is conjectured that Quantumess adds power to computation. Still, there is no formal proof for it. Lower bounds are hard!!!.
+  > Can ideas from physics help to build explainable AI? [Physics of AI](https://youtu.be/XLNmgviQHPA?si=vo6fyuotHGdDtCvy) by Sebastien Bubeck.
 
   > Is there something more in $\mathsf{BQP \cap NP}$? We know $\mathsf{P}$ and FACTORIZATION are there. Is it all?
   
