@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I just completed my master's in Quantum Computing at [IISc, Bengaluru](https://en.wikipedia.org/wiki/Indian_Institute_of_Science).
+- 🔭 I completed my master's in Quantum Computing from [IISc, Bengaluru](https://en.wikipedia.org/wiki/Indian_Institute_of_Science) a couple of years ago.
 - 🌱 My primary interest is in Quantum Simulation and Hamiltonian complexity theory. Beyond this, I aspire to contribute to (quantum/classical) algorithmic research in optimization/ML and system simulation. I also keep track of developments in lattice-based cryptography and Physics-inspired machine learning.
 - :dart: One of the long-term goals is to understand the power and limitations of the computational complexity class BQP, i.e., the set of problems having a  polynomial-time quantum algorithm.
 
