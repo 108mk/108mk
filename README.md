@@ -1,16 +1,16 @@
 ### Hi there 👋
 
 - 🔭 I just completed my master's in Quantum Computing at [IISc, Bengaluru](https://en.wikipedia.org/wiki/Indian_Institute_of_Science).
-- 🌱 My primary interest is in Quantum Simulation and Hamiltonian complexity theory. Beyond this, I aspire to contribute to (quantum/classical) algorithmic research in optimisation/ML and system simulation. I also keep track of developments in lattice-based cryptography and Physics-inspired machine learning.
+- 🌱 My primary interest is in Quantum Simulation and Hamiltonian complexity theory. Beyond this, I aspire to contribute to (quantum/classical) algorithmic research in optimization/ML and system simulation. I also keep track of developments in lattice-based cryptography and Physics-inspired machine learning.
 - :dart: One of the long-term goals is to understand the power and limitations of the computational complexity class BQP, i.e., the set of problems having a  polynomial-time quantum algorithm.
 
 - Some of my other interests are-
   
   > Can ideas from physics help to build explainable AI? [Physics of AI](https://youtu.be/XLNmgviQHPA?si=vo6fyuotHGdDtCvy) by Sebastien Bubeck.
 
-  > Is there something more in $\mathsf{BQP \cap NP}$? We know $\mathsf{P}$ and FACTORIZATION are there. Is it all?
+  > Is there something more in $\mathsf{BQP \cap NP}$? We know $\mathsf{P}$ and FACTORIZATION are there. Is it some more natural problems there?
   
-- ⭐ A part-time programmer. Trying to learn a bit of creative thinking via Dynamic Programming [😅]. See if these [codes](https://github.com/108mk/E0-225_Design_and_Analysis_of_Algorithms.git) are relevant.
+- ⭐ A part-time programmer. Trying to learn a bit of creative thinking via Dynamic Programming. See if these [codes](https://github.com/108mk/E0-225_Design_and_Analysis_of_Algorithms.git) are relevant.
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=108mk&show_icons=true&theme=radical">
