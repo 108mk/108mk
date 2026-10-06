@@ -8,7 +8,7 @@
   
   > Can ideas from physics help to build explainable AI? [Physics of AI](https://youtu.be/XLNmgviQHPA?si=vo6fyuotHGdDtCvy) by Sebastien Bubeck.
 
-  > Is there something more in $\mathsf{BQP \cap NP}$? We know $\mathsf{P}$ and FACTORIZATION are there. Is it some more natural problems there?
+  > Is there something more in $\mathsf{BQP \cap NP}$? We know $\mathsf{P}$ and FACTORIZATION are there. Are there some more natural problems there?
   
 - ⭐ A part-time programmer. Trying to learn a bit of creative thinking via Dynamic Programming. See if these [codes](https://github.com/108mk/E0-225_Design_and_Analysis_of_Algorithms.git) are relevant.
 
@@ -26,19 +26,20 @@
 - 📫 Reach me at manishkumar7[at]iisc.ac.in
 
 <div style="padding: 25px 0;">
-     <a href="https://www.linkedin.com/in/timbakerx/" style="padding: 8px; width: 24px; height: 24px;">
-        <img src="https://github.com/108mk/108mk.github.io/blob/fafd671c4d8ed02de3a684e8d0d601a4649b2b31/images/linkedin-green.png" alt="Connect on Linkedin" width="48" height="48">
+     <a href="https://www.linkedin.com/in/108mk/" style="padding: 8px; width: 24px; height: 24px;">
+        <img src="raw.githubusercontent.com/108mk/108mk.github.io/blob/fafd671c4d8ed02de3a684e8d0d601a4649b2b31/images/linkedin-green.png" alt="Connect on Linkedin" width="48" height="48">
     </a>
   
   <a href="https://108mk.github.io/" style="padding: 8px; width: 24px; height: 24px;">
-        <img src="https://github.com/108mk/108mk.github.io/blob/0fcb9bc348a1b28853b58adfa2ef2b80ef8b94b8/images/web.jpg" alt="My Webpage" width="72" height="48">
+        <img src="raw.githubusercontent.com/108mk/108mk.github.io/blob/0fcb9bc348a1b28853b58adfa2ef2b80ef8b94b8/images/web.jpg" alt="My Webpage" width="72" height="48">
     </a>
   
 </div>
 
 <a href="https://stackexchange.com/users/10264162"><img src="https://stackexchange.com/users/flair/10264162.png" width="208" height="58" alt="profile for 108_mk on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for 108_mk on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
-[![](https://visitcount.itsvg.in/api?id=108mk&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
+[![](![Profile Views](https://komarev.com/ghpvc/?username=108mk&label=Profile%20Views&color=blueviolet)
+)](https://komarev.com)
 <!---
 [\\] <> - ⚡ I think playing sports is a nice idea. I usually prefer badminton (🏸) and cricket.
 [\\] <> - A few Avatars of Quantum Bits:
