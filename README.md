@@ -17,11 +17,11 @@
 
 <div style="padding: 25px 0;">
      <a href="https://www.linkedin.com/in/108mk/" style="padding: 8px; width: 24px; height: 24px;">
-        <img src="raw.githubusercontent.com/108mk/108mk.github.io/blob/fafd671c4d8ed02de3a684e8d0d601a4649b2b31/images/linkedin-green.png" alt="Connect on Linkedin" width="48" height="48">
+        <img src="https://www.github.com/108mk/108mk.github.io/blob/fafd671c4d8ed02de3a684e8d0d601a4649b2b31/images/linkedin-green.png" alt="Connect on Linkedin" width="48" height="48">
     </a>
   
   <a href="https://108mk.github.io/" style="padding: 8px; width: 24px; height: 24px;">
-        <img src="raw.githubusercontent.com/108mk/108mk.github.io/blob/0fcb9bc348a1b28853b58adfa2ef2b80ef8b94b8/images/web.jpg" alt="My Webpage" width="72" height="48">
+        <img src="https://www.github.com/108mk/108mk.github.io/blob/0fcb9bc348a1b28853b58adfa2ef2b80ef8b94b8/images/web.jpg" alt="My Webpage" width="72" height="48">
     </a>
   
 </div>
