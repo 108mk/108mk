@@ -12,16 +12,6 @@
   
 - ⭐ A part-time programmer. Trying to learn a bit of creative thinking via Dynamic Programming. See if these [codes](https://github.com/108mk/E0-225_Design_and_Analysis_of_Algorithms.git) are relevant.
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=108mk&show_icons=true&theme=radical">
-</p>
-<p align="center">
-  <a href="https://github.com/108mk/github-readme-stats">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=108mk&layout=compact&theme=radical"/>
-  </a>
-  <br/>
-</p>
-
 
 - 📫 Reach me at manishkumar7[at]iisc.ac.in
 
@@ -38,8 +28,7 @@
 
 <a href="https://stackexchange.com/users/10264162"><img src="https://stackexchange.com/users/flair/10264162.png" width="208" height="58" alt="profile for 108_mk on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for 108_mk on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
-[![](![Profile Views](https://komarev.com/ghpvc/?username=108mk&label=Profile%20Views&color=blueviolet)
-)](https://komarev.com)
+[![](![Profile Views](https://komarev.com/ghpvc/?username=108mk&label=Profile%20Views&color=blueviolet))]
 <!---
 [\\] <> - ⚡ I think playing sports is a nice idea. I usually prefer badminton (🏸) and cricket.
 [\\] <> - A few Avatars of Quantum Bits:
